@@ -1,4 +1,4 @@
-# React #D Portfolio 🚀
+# React 3D Portfolio 🚀
 
 ## <a name="features">🔋 Features</a>
 
