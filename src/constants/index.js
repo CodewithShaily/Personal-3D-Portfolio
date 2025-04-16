@@ -15,14 +15,16 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
+  Stop,
+  internstudio,
+  jindal,
   tesla,
   shopify,
   carrent,
   jobit,
   tripguide,
   threejs,
+  
 } from "../assets";
 
 export const navLinks = [
@@ -118,9 +120,9 @@ const experiences = [
   {
     title: "AI Intern",
     company_name: "Internship Studio",
-    icon: starbucks,
+    icon: internstudio,
     iconBg: "#383E56",
-    date: "Dec 2024 - Feb 2021",
+    date: "Dec 2024 - Feb 2025",
     points: [
       "Completed a 4-week training covering data handling, visualization, manipulation tools, and machine learning algorithms.",
       "Learned about ANN, CNN, RNN, NLP, text analysis, and sentiment analysis.",
@@ -131,7 +133,7 @@ const experiences = [
   {
     title: "Web Developer and SAP MM Intern",
     company_name: "Jindal Power Ltd.",
-    icon: tesla,
+    icon: jindal,
     iconBg: "#E6DEDD",
     date: "May 2024 - Jul 2024",
     points: [
@@ -144,7 +146,7 @@ const experiences = [
   {
     title: "Back-end Intern",
     company_name: "1Stop",
-    icon: shopify,
+    icon: Stop,
     iconBg: "#383E56",
     date: "Oct 2023 - Nov 2023",
     points: [
@@ -209,30 +211,30 @@ const projects = [
     source_code_link: "https://github.com/CodewithShaily/Threat_detection/",
   },
   {
-    name: "Job IT",
+    name: "Medical Chatbot Generative AI",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A smart medical chatbot that provides accurate, symptom-based responses with personalized and context-aware interaction to enhance patient support and pre-diagnosis.",
     tags: [
       {
-        name: "react",
+        name: "Flask",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "GPT",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Pinecone",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/CodewithShaily/MediSync",
   },
   {
-    name: "Trip Guide",
+    name: "Tour and Travel Site",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A React-based travel website where every section, from Navbar to Footer, is a reusable component, with smooth navigation and dynamic sub-pages like a filterable photo gallery for an engaging user experience.",
     tags: [
       {
         name: "nextjs",
@@ -248,7 +250,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/CodewithShaily/React-Tour-and-Travel-Site",
   },
 ];
 

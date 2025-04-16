@@ -30,6 +30,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import internstudio from "./company/internstudio.png";
+import jindal from "./company/jindal.png";
+import Stop from "./company/Stop.png"; 
+
 export {
   logo,
   backend,
@@ -59,4 +63,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  internstudio,
+  jindal,
+  Stop
 };

@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled Machine Learning Developer with experience in Python, SQL, and AI/ML frameworks like PyTorch, and scikit-learn. I’m a quick learner and have worked on projects involving deep learning, NLP, and computer vision. I collaborate closely with teams to build efficient, scalable, and impactful AI solutions that solve real-world problems. Let's work together to bring your ideas to life!
+        I'm a skilled Machine Learning Developer with experience in Python, SQL, and AI/ML frameworks like PyTorch, and LLM Models. I’m a quick learner and have worked on projects involving deep learning, NLP, and computer vision. I collaborate closely with teams to build efficient, scalable, and impactful AI solutions that solve real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
