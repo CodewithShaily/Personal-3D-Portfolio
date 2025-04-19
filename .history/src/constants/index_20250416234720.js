@@ -24,8 +24,6 @@ import {
   jobit,
   tripguide,
   threejs,
-  medical,
-  gun,
   
 } from "../assets";
 
@@ -209,7 +207,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: gun,
+    image: carrent,
     source_code_link: "https://github.com/CodewithShaily/Threat_detection/",
   },
   {
@@ -230,7 +228,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: medical,
+    image: jobit,
     source_code_link: "https://github.com/CodewithShaily/MediSync",
   },
   {

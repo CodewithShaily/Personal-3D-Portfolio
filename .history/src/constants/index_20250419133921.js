@@ -25,7 +25,7 @@ import {
   tripguide,
   threejs,
   medical,
-  gun,
+  gun
   
 } from "../assets";
 

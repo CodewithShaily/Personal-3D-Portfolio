@@ -33,8 +33,6 @@ import tripguide from "./tripguide.png";
 import internstudio from "./company/internstudio.png";
 import jindal from "./company/jindal.png";
 import Stop from "./company/Stop.png"; 
-import medical from "./company/medical.png";    
-import gun from "./company/gun.png"; // Adjust the path as necessary
 
 export {
   logo,
@@ -67,7 +65,5 @@ export {
   tripguide,
   internstudio,
   jindal,
-  Stop,
-  medical,
-  gun
+  Stop
 };

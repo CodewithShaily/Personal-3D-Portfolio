@@ -25,7 +25,7 @@ import {
   tripguide,
   threejs,
   medical,
-  gun,
+  weapon
   
 } from "../assets";
 
@@ -209,7 +209,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: gun,
+    image: weapon,
     source_code_link: "https://github.com/CodewithShaily/Threat_detection/",
   },
   {
