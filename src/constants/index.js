@@ -210,7 +210,7 @@ const projects = [
       },
     ],
     image: gun,
-    source_code_link: "https://github.com/CodewithShaily/Threat_detection/",
+    source_code_link: "https://github.com/CodewithShaily/Nagar-rakshak/",
   },
   {
     name: "Medical Chatbot Generative AI",
