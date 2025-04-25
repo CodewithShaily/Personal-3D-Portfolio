@@ -26,7 +26,9 @@ import {
   threejs,
   medical,
   gun,
-  
+  github,
+  leetcode,
+  linkdin
 } from "../assets";
 
 export const navLinks = [
@@ -128,7 +130,7 @@ const experiences = [
     points: [
       "Completed a 4-week training covering data handling, visualization, manipulation tools, and machine learning algorithms.",
       "Learned about ANN, CNN, RNN, NLP, text analysis, and sentiment analysis.",
-      "IWorked on the Implementation of PCA with ANN algorithm for Face Recognition as a project.",
+      "I Worked on the Implementation of PCA with ANN algorithm for Face Recognition as a project.",
       "Applied machine learning concepts to real-world data, enhancing practical skills in AI and deep learning.",
     ],
   },
@@ -153,7 +155,7 @@ const experiences = [
     date: "Oct 2023 - Nov 2023",
     points: [
       "Completed a 3-week backend training from IIT Bhubaneswar, learning SQL, PostgreSQL, PHP, and Laravel",
-      "CDeveloped a Laravel Task Manager App using REST API and Postman.",
+      "Developed a Laravel Task Manager App using REST API and Postman.",
       "Built a Laravel BMS (Business Management System) as a major project.",
       "Created detailed project reports alongside development, gaining hands-on backend experience.",
     ],
@@ -167,7 +169,7 @@ const testimonials = [
     name: "GitHub",
     designation: "Open Source",
     
-    image: "src/assets/github.png",
+    image: github,
     profileLink: "https://github.com/CodewithShaily",
   },
   {
@@ -176,7 +178,7 @@ const testimonials = [
     name: "Linkedin",
     designation: "Networking",
     
-    image: "src/assets/linkdin-logo.png",
+    image: linkdin,
     profileLink: "https://www.linkedin.com/in/shailysaxena222/",
   },
   {
@@ -185,7 +187,7 @@ const testimonials = [
     name: "Leetcode",
     designation: "Problem Solving",
     
-    image: "src/assets/leetcode-logo.png",
+    image: leetcode,
     profileLink: "https://leetcode.com/u/ShailyInTech/",
   },
 ];

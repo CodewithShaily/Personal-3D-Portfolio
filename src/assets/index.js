@@ -3,7 +3,6 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
-import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -34,7 +33,10 @@ import internstudio from "./company/internstudio.png";
 import jindal from "./company/jindal.png";
 import Stop from "./company/Stop.png"; 
 import medical from "./company/medical.png";    
-import gun from "./company/gun.png"; // Adjust the path as necessary
+import gun from "./company/gun.png";
+import github from "./company/github.png"; // Adjust the path as necessary  
+import linkdin from "./company/linkdin.png";
+import leetcode from "./company/leetcode.png"; // Adjust the path as necessary
 
 export {
   logo,
@@ -69,5 +71,7 @@ export {
   jindal,
   Stop,
   medical,
-  gun
+  gun,
+  linkdin,
+  leetcode
 };
